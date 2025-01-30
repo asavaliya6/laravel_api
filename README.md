@@ -6,7 +6,7 @@
 composer create-project laravel/laravel example-app
 ```
 
-Step 2: Enable API and Update Authentication Exception</h3>
+<h3>Step 2: Enable API and Update Authentication Exception</h3>
 
 ```
 php artisan install:api
